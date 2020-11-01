@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Mohan Kumar",
+      "username": "Mohan@123",
+      "email": "mohan@gmail.com",
+      "phone": "3333333333",
+      "website": "www.mohan.com",
+      "id": 1
+    },
+    {
+      "name": "Sonu Jain",
+      "username": "sonu@123",
+      "email": "sonu@gmail.com",
+      "phone": "111111111111",
+      "website": "www.sonujain.com",
+      "id": 2
+    },
+    {
+      "name": "Ramesh Kourav",
+      "username": "Ramesh*11111",
+      "email": "Ramesh@gmail.com",
+      "phone": "000000000",
+      "website": "www.rameshkourav.com",
+      "id": 3
+    }
+  ]
+}
